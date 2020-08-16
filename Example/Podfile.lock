@@ -1,0 +1,54 @@
+PODS:
+  - Alamofire (4.7.3)
+  - DACircularProgress (2.3.1)
+  - HydraAsync (2.0.3)
+  - IDMPhotoBrowser (1.11.3):
+    - DACircularProgress
+    - pop
+    - SDWebImage (= 4.0.0)
+  - MBProgressHUD (1.2.0)
+  - pop (1.0.12)
+  - RadioGroup (1.3.3):
+    - SweeterSwift
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SweeterSwift (1.1.3)
+  - TPKeyboardAvoiding (1.3.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.2)
+  - HydraAsync
+  - IDMPhotoBrowser
+  - MBProgressHUD
+  - RadioGroup
+  - TPKeyboardAvoiding
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DACircularProgress
+    - HydraAsync
+    - IDMPhotoBrowser
+    - MBProgressHUD
+    - pop
+    - RadioGroup
+    - SDWebImage
+    - SweeterSwift
+    - TPKeyboardAvoiding
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  HydraAsync: e931acbcd0733d157fe50561a98d3140ba4ba2df
+  IDMPhotoBrowser: b96159fe4adb991a844068eb17dab9c0b7d7e51a
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  RadioGroup: b84d3ef8a255f63bc7a601f487b3d32355f9f365
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SweeterSwift: d909211f6833405628c8c7c6bf9f8f2e8a0e9df9
+  TPKeyboardAvoiding: 7c2187e2338052b2c5be4a8052f297fdb124e261
+
+PODFILE CHECKSUM: 810d82c243f8f74f0a5a1f5616e5c07a5f4ca343
+
+COCOAPODS: 1.9.1

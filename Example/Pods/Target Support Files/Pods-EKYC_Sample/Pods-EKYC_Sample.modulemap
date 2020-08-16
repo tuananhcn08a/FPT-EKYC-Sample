@@ -1,0 +1,6 @@
+framework module Pods_EKYC_Sample {
+  umbrella header "Pods-EKYC_Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
