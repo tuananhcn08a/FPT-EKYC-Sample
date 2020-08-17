@@ -13,7 +13,7 @@
 		AD33B9A324E3DB460048A8D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD33B9A224E3DB460048A8D0 /* Assets.xcassets */; };
 		AD33B9A624E3DB460048A8D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD33B9A424E3DB460048A8D0 /* LaunchScreen.storyboard */; };
 		AD85F9D224E9C06F0098FBCE /* FEKYC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD85F9D024E9C0610098FBCE /* FEKYC.framework */; };
-		AD85F9D324E9C0700098FBCE /* FEKYC.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD85F9D024E9C0610098FBCE /* FEKYC.framework */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		AD85F9D324E9C0700098FBCE /* FEKYC.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AD85F9D024E9C0610098FBCE /* FEKYC.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		D8558F0A62B88DE23258F1E4 /* Pods_EKYC_Sample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91BEDC684733FBA5A6BCC353 /* Pods_EKYC_Sample.framework */; };
 /* End PBXBuildFile section */
 
