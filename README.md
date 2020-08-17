@@ -12,9 +12,11 @@ This solution can be applied for automated data input process in various domains
 ## Setup
 - Download and extract the FEKYC.zip file to get the FEKYC.framework 
 - Drag & drop FEKYC.framework to your project
+
 ![alt text](https://github.com/tuananhcn08a/FPT-EKYC/blob/master/img/Screen%20Shot%202020-08-17%20at%209.15.55%20AM.png)
 
 - Select your target, then go to the General tab and click (+) in Frameworks, Libraries, and Embedded Content section, make sure FEKYC.framework was added, if not drag and drop the file from the Outline View
+
 ![alt text](https://github.com/tuananhcn08a/FPT-EKYC/blob/master/img/Screen%20Shot%202020-08-17%20at%209.29.03%20AM.png)
 
 - Add dependencies:
