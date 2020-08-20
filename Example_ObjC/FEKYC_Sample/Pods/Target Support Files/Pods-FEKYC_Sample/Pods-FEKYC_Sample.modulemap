@@ -1,0 +1,6 @@
+framework module Pods_FEKYC_Sample {
+  umbrella header "Pods-FEKYC_Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
