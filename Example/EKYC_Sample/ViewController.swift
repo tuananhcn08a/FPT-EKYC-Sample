@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         orcDocumentTypeGroup.titles = ["ID Card", "Driver License", "Passport"]
         orcDocumentTypeGroup.addTarget(self, action: #selector(didSelectOrcDocumentTypeOption(radioGroup:)), for: .valueChanged)
         
-        orcTypeGroup.titles = ["Photo", "Liveness"]
+        orcTypeGroup.titles = ["Photo", "Liveness", "Video"]
         orcTypeGroup.addTarget(self, action: #selector(didSelectOrcTypeOption(radioGroup:)), for: .valueChanged)
     }
     
@@ -55,6 +55,8 @@ class ViewController: UIViewController {
             orcType = FEKYCOrcType.photo
         case 1:
             orcType = FEKYCOrcType.liveness
+        case 2:
+            orcType = FEKYCOrcType.video
         default: break
         }
         
